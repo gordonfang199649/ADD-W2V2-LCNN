@@ -1,0 +1,11 @@
+models/
+preprocess_xls-r_accentdb/
+preprocess_xls-r_ascend/
+preprocess_xls-r_ASVspoof2021_DF/
+preprocess_xls-r_CodecFake/
+preprocess_xls-r_DFADD/
+preprocess_xls-r_in_the_wild/
+preprocess_xls-r_LibriSpeech/
+train_on_asvspoof_test_on_in_the_wild/
+train_test_on_in_the_wild/
+__pycache__/
